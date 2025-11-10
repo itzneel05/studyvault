@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming using Python. This course covers fundamental concepts such as variables, control structures, and functions.",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "price": 49.99
+    },
+    {
+        "id": 2,
+        "title": "Web Development Bootcamp",
+        "description": "A comprehensive course that teaches you how to build websites from scratch using HTML, CSS, and JavaScript.",
+        "duration": "12 weeks",
+        "level": "Intermediate",
+        "price": 199.99
+    },
+    {
+        "id": 3,
+        "title": "Data Science with R",
+        "description": "Dive into data analysis and visualization using R. This course is designed for those who want to explore data science techniques.",
+        "duration": "8 weeks",
+        "level": "Intermediate",
+        "price": 149.99
+    },
+    {
+        "id": 4,
+        "title": "Machine Learning Fundamentals",
+        "description": "An introduction to machine learning concepts and algorithms. Learn how to build predictive models using Python.",
+        "duration": "6 weeks",
+        "level": "Advanced",
+        "price": 199.99
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing Essentials",
+        "description": "Understand the key principles of digital marketing, including SEO, social media, and content marketing strategies.",
+        "duration": "5 weeks",
+        "level": "Beginner",
+        "price": 79.99
+    }
+]
