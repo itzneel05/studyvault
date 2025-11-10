@@ -1,0 +1,23 @@
+{
+  "name": "studyvault-homepage",
+  "version": "1.0.0",
+  "description": "A GitHub Pages project for the StudyVault website showcasing various courses.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Build step can be added here'",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "gh-pages": "^3.2.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "GitHub Pages",
+    "courses",
+    "education"
+  ]
+}
