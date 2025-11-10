@@ -1,6 +1,6 @@
 title: StudyVault
 description: A platform to learn various subjects through online courses.
-baseurl: ""
+baseurl: "https://itzneel05.github.io/studyvault"
 url: "https://itzneel05.github.io/studyvault"
 theme: minima
 markdown: kramdown
